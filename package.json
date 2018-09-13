@@ -1,0 +1,21 @@
+{
+  "name": "court-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "prettier --write src/**/*.js && prettier --write src/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "pdf-parser": "^1.0.4",
+    "pdf2json": "^1.1.7"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  }
+}
