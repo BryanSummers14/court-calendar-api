@@ -43,6 +43,7 @@ Deployed via now (will be)
 
 * [NodeJS](http://www.dropwizard.io/1.0.2/docs/)
 * [npm](https://maven.apache.org/) - Dependency Management
+* [firebase](https://firebase.google.com/) - Realtime data storage
 
 ## Contributing
 
